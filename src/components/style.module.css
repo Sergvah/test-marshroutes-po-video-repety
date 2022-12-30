@@ -1,0 +1,9 @@
+css {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  &.active {
+    background-color: grey;
+    color: white;
+  }
+}

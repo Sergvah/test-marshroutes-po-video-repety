@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/test-marshroutes-po-video-repety/static/css/main.7acaea2f.css",
-    "main.js": "/test-marshroutes-po-video-repety/static/js/main.84d52dbe.js",
+    "main.js": "/test-marshroutes-po-video-repety/static/js/main.56fb6280.js",
     "index.html": "/test-marshroutes-po-video-repety/index.html",
     "main.7acaea2f.css.map": "/test-marshroutes-po-video-repety/static/css/main.7acaea2f.css.map",
-    "main.84d52dbe.js.map": "/test-marshroutes-po-video-repety/static/js/main.84d52dbe.js.map"
+    "main.56fb6280.js.map": "/test-marshroutes-po-video-repety/static/js/main.56fb6280.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.84d52dbe.js"
+    "static/js/main.56fb6280.js"
   ]
 }
